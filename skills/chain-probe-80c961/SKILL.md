@@ -5,4 +5,4 @@ description: Probe skill for the system chain test (trinity-enterprise#794). Saf
 
 # chain-probe-80c961
 
-Marker: v1
+Marker: v2
